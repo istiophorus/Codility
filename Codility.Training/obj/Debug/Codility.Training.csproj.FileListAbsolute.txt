@@ -1,5 +1,0 @@
-D:\GitHub\Codility\Codility.Training\obj\Debug\Codility.Training.csprojResolveAssemblyReference.cache
-D:\GitHub\Codility\Codility.Training\bin\Debug\Codility.Training.dll
-D:\GitHub\Codility\Codility.Training\bin\Debug\Codility.Training.pdb
-D:\GitHub\Codility\Codility.Training\obj\Debug\Codility.Training.dll
-D:\GitHub\Codility\Codility.Training\obj\Debug\Codility.Training.pdb
