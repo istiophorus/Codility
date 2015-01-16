@@ -1,0 +1,7 @@
+D:\GitHub\Codility\Codility.Training.Tests\obj\Debug\Codility.Training.Tests.csprojResolveAssemblyReference.cache
+D:\GitHub\Codility\Codility.Training.Tests\bin\Debug\Codility.Training.Tests.dll
+D:\GitHub\Codility\Codility.Training.Tests\bin\Debug\Codility.Training.Tests.pdb
+D:\GitHub\Codility\Codility.Training.Tests\bin\Debug\Codility.Training.dll
+D:\GitHub\Codility\Codility.Training.Tests\bin\Debug\Codility.Training.pdb
+D:\GitHub\Codility\Codility.Training.Tests\obj\Debug\Codility.Training.Tests.dll
+D:\GitHub\Codility\Codility.Training.Tests\obj\Debug\Codility.Training.Tests.pdb
