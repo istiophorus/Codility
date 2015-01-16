@@ -49,6 +49,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CountDivTests.cs" />
     <Compile Include="PermCheckTest.cs" />
     <Compile Include="TapeEquilibriumTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -45,11 +45,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CountDiv.cs" />
     <Compile Include="FrogRiverOne.cs" />
     <Compile Include="MaxSliceSum.cs" />
+    <Compile Include="MinAvgTwoSlice.cs" />
     <Compile Include="MissingInteger.cs" />
     <Compile Include="NumberOfInterSectingDisks.cs" />
     <Compile Include="NumberSolitair.cs" />
+    <Compile Include="PassingCars.cs" />
     <Compile Include="PermCheck.cs" />
     <Compile Include="TapeEquilibrium.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
