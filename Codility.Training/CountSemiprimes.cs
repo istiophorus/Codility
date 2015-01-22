@@ -21,7 +21,7 @@ namespace Codility.Training
 			internal Int32 CurrentValue { get; set; }
 		}
 
-		public static Int32[] Solve(Int32 maxN, Int32[] rangeP, Int32[] rangeQ)
+		public Int32[] Solve(Int32 maxN, Int32[] rangeP, Int32[] rangeQ)
 		{
 			if (null == rangeP)
 			{
