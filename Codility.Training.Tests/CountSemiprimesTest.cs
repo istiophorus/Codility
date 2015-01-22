@@ -40,7 +40,7 @@ namespace Codility.Training.Tests
 
 			Int32[] expected = new Int32[] { 10, 4, 0 };
 
-			Assert.AreEqual(6, result.Length);
+			Assert.AreEqual(3, result.Length);
 
 			for (Int32 q = 0; q < result.Length; q++)
 			{
