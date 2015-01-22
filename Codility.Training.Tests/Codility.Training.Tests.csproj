@@ -52,6 +52,7 @@
     <Compile Include="BracketsTest.cs" />
     <Compile Include="CountDivTests.cs" />
     <Compile Include="CountSemiprimesTest.cs" />
+    <Compile Include="EquiLeaderTests.cs" />
     <Compile Include="PermCheckTest.cs" />
     <Compile Include="TapeEquilibriumTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

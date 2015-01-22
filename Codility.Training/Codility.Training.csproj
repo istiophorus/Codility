@@ -48,6 +48,7 @@
     <Compile Include="Brackets.cs" />
     <Compile Include="CountDiv.cs" />
     <Compile Include="CountSemiprimes.cs" />
+    <Compile Include="EquiLeader.cs" />
     <Compile Include="FrogRiverOne.cs" />
     <Compile Include="MaxSliceSum.cs" />
     <Compile Include="MinAvgTwoSlice.cs" />
