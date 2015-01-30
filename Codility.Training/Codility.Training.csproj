@@ -46,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Brackets.cs" />
+    <Compile Include="ChocolatesByNumbers.cs" />
     <Compile Include="CountDiv.cs" />
     <Compile Include="CountSemiprimes.cs" />
     <Compile Include="EquiLeader.cs" />

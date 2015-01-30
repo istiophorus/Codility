@@ -50,6 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BracketsTest.cs" />
+    <Compile Include="ChocolatesByNumbersTests.cs" />
     <Compile Include="CountDivTests.cs" />
     <Compile Include="CountSemiprimesTest.cs" />
     <Compile Include="EquiLeaderTests.cs" />
