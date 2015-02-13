@@ -47,10 +47,12 @@
   <ItemGroup>
     <Compile Include="Brackets.cs" />
     <Compile Include="ChocolatesByNumbers.cs" />
+    <Compile Include="CommonPrimeDivisors.cs" />
     <Compile Include="CountDiv.cs" />
     <Compile Include="CountSemiprimes.cs" />
     <Compile Include="EquiLeader.cs" />
     <Compile Include="FrogRiverOne.cs" />
+    <Compile Include="GenomicRangeQuery.cs" />
     <Compile Include="MaxSliceSum.cs" />
     <Compile Include="MinAvgTwoSlice.cs" />
     <Compile Include="MissingInteger.cs" />
