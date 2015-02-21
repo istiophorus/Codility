@@ -50,6 +50,7 @@
     <Compile Include="CommonPrimeDivisors.cs" />
     <Compile Include="CountDiv.cs" />
     <Compile Include="CountSemiprimes.cs" />
+    <Compile Include="Dominator.cs" />
     <Compile Include="EquiLeader.cs" />
     <Compile Include="FrogRiverOne.cs" />
     <Compile Include="GenomicRangeQuery.cs" />
